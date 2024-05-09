@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@400;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+
+.cherry-swash-bold {
+  font-family: "Cherry Swash", serif;
+  font-weight: 500;
+  font-style: normal;
+  color: black;
+}

@@ -1,5 +1,6 @@
 
 import Home from "./components/Home"
+import ImageLayer from "./components/ImageLayer"
 function App() {
   
 
